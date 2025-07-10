@@ -198,22 +198,27 @@ Technical Highlights:
     {
         title: 'AI-Powered Resume Analyzer',
         slug: 'resume-analyzer',
-        techStack: ['GPT-4', 'React.js', 'Tailwind CSS', 'Github', 'Vercel'],
-        thumbnail: '/projects/thumbnail/resume-roaster.jpg',
+        techStack: [
+            'Gemini AI',
+            'React.js',
+            'Tailwind CSS',
+            'Github',
+            'Vercel',
+        ],
+        thumbnail: '/projects/thumbnail/ai-powered-resume-analyzer.png',
         longThumbnail: '/projects/long/resume-roaster.jpg',
         images: [
-            '/projects/images/resume-roaster-1.png',
-            '/projects/images/resume-roaster-2.png',
-            '/projects/images/resume-roaster-3.png',
+            '/projects/images/ai-powered-resume-analyzer.png',
+            '/projects/images/ai-powered-resume-analyzer2.png',
+            '/projects/images/ai-powered-resume-analyzer3.png',
         ],
-        liveUrl: 'https://resume-roaster.vercel.app/',
-        year: 2023,
-        description:
-            'Resume Roaster is a web application designed to provide tailored resume feedback and professional writing services. Built with Next.js, PostgreSQL, Prisma, and Tailwind CSS, it integrates GPT-4 for AI-powered recommendations. The platform also includes peer-to-peer reviews with a points-based system, fostering a collaborative and engaging experience. Targeting freshers, experienced professionals, and programmers, it helps optimize resumes for job-specific success.',
+        liveUrl: 'https://ai-powered-resume-analyzer-by-anaskhan.vercel.app/',
+        year: 2025,
+        description: `AI-Powered Resume Analyzer is a web application that delivers tailored resume feedback using Gemini AI. Built with React.js and styled using Tailwind CSS, the platform helps freshers, professionals, and programmers enhance their resumes with job-specific optimization. The tool integrates professional writing support and encourages collaborative growth through peer-to-peer reviews and a points-based reward system.`,
         role: `As the sole developer and business owner, I:<br/>
-        - Designed and developed the platform end-to-end using Next.js, PostgreSQL, Prisma, and Tailwind CSS.<br/>
-        - Integrated GPT-4 for AI-driven feedback and insights.<br/>
-        - Implemented complex SQL queries, including one to identify the top two resumes based on user points.`,
+        - Designed and developed the platform end-to-end using React.js and Tailwind CSS.<br/>
+        - Integrated Gemini AI for AI-driven feedback and insights.<br/>
+       `,
     },
     {
         title: 'Real Estate',
