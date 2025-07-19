@@ -25,7 +25,7 @@ const Footer = async () => {
                 <p className="text-lg">Have a project in mind?</p>
                 <a
                     href={`mailto:${GENERAL_INFO.email}`}
-                    className="text-3xl md:text-4xl lg:text-4xl font-anton inline-block mt-5 mb-10 hover:underline"
+                    className="text-2xl md:text-3xl lg:text-4xl font-anton inline-block mt-5 mb-10 hover:underline"
                 >
                     {GENERAL_INFO.email}
                 </a>
